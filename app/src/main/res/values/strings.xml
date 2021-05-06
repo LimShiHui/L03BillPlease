@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L03 Bill Please</string>
+    <string name="tvAmount">Amount</string>
+    <string name="etAmount"></string>
+    <string name="tvNumPax">Num of Pax</string>
+    <string name="etPax"></string>
+    <string name="tvDis">Discount (%)</string>
+    <string name="etDiscount"></string>
+    <string name="rbCash">Cash</string>
+    <string name="rbPayNow">PayNow</string>
+    <string name="tvBill">Total Bill: $</string>
+    <string name="tvEach">Each Pays: $</string>
+    <string name="btnSplit">Split</string>
+    <string name="btnRestart">restart</string>
+</resources>
